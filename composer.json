@@ -1,0 +1,10 @@
+{
+  "name": "guodaolinyi/dingtalk-sdk",
+  "description": "钉钉SDK",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "TopSdk.php"
+    ]
+  }
+}
